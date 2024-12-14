@@ -12,7 +12,8 @@
     "permissions": [
       "tabs",
       "activeTab",
-      "scripting"
+      "scripting",
+      "webRequest"
     ],
     "host_permissions": [
       "https://ust.space/*"
