@@ -3,3 +3,6 @@ This is a Chrome extension to remove adverts from HKUST's unofficial course revi
 
 ## Usage
 To use this extension, download the code or clone this repository to your machine , then follow the instructions on [Chrome's webpage](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) to setup the extension
+
+*Instructions on Chrome's webpage*
+<img src="img/instructions.png"></img>
